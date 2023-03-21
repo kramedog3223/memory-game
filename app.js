@@ -15,7 +15,7 @@ const getData = () => [
   { imgSrc: "./img/fkatwigs.jpeg", id: 3, name: "fka twigs" },
   { imgSrc: "./img/fleetwood.jpeg", id: 4, name: "fleetwood" },
   { imgSrc: "./img/joy-division.jpeg", id: 5, name: "joy division" },
-  { imgSrc: "./img/ledzep.jpeg", id: 6, name: "lep zeppelin" },
+  { imgSrc: "./img/ledzep.jpeg", id: 6, name: "led zeppelin" },
   { imgSrc: "./img/metallica.jpeg", id: 7, name: "metallica" },
   { imgSrc: "./img/pinkfloyd.jpeg", id: 8, name: "pink floyd" },
   { imgSrc: "./img/beatles.jpeg", id: 9, name: "beatles" },
@@ -23,7 +23,7 @@ const getData = () => [
   { imgSrc: "./img/fkatwigs.jpeg", id: 11, name: "fka twigs" },
   { imgSrc: "./img/fleetwood.jpeg", id: 12, name: "fleetwood" },
   { imgSrc: "./img/joy-division.jpeg", id: 13, name: "joy division" },
-  { imgSrc: "./img/ledzep.jpeg", id: 14, name: "led zeppelin" },
+  { imgSrc: "./img/ledzep.jpeg", id: 6, name: "led zeppelin" },
   { imgSrc: "./img/metallica.jpeg", id: 15, name: "metallica" },
   { imgSrc: "./img/pinkfloyd.jpeg", id: 16, name: "pink floyd" },
 ];
